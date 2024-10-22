@@ -1,0 +1,14 @@
+D:\CodeAcademy\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.exe
+D:\CodeAcademy\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+D:\CodeAcademy\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+D:\CodeAcademy\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.dll
+D:\CodeAcademy\StaticClass\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.dll
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+D:\CodeAcademy\StaticClass\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll
